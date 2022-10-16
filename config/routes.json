@@ -1,0 +1,30 @@
+{
+    "/":{
+        "controller":"MainController",
+        "action": "main"
+    },
+    "/listaProductos":{
+        "controller": "ListaProductosController",
+        "action": "listaProductos"
+    },
+    "/listaClientes":{
+        "controller": "ListaClientesController",
+        "action": "listaClientes"
+    },
+    "/departamentos":{
+        "controller": "DepartamentosController",
+        "action": "departamentos"
+    },
+    "/empleados":{
+        "controller": "EmpleadosController",
+        "action": "empleados"
+    },
+    "/pedidos":{
+        "controller": "PedidosController",
+        "action": "pedidos"
+    },
+    "/detalleCliente":{
+        "controller": "DetalleClienteController",
+        "action": "detalleCliente"
+    }
+}

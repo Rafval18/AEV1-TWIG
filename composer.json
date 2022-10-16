@@ -1,0 +1,12 @@
+{
+    "name": "daw-dwes/aev1-rafaelsarriavalero",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Config\\": "config/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
